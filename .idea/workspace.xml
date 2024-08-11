@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="50f485be-be48-4a52-b03f-36399fc59512" name="Changes" comment="version" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="JavaFXApplication" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--follow-tags" />
+        <option name="title" value="Current Branch" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2hCMFtJZQB1spAZNwK9OWJ5HD1a" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.App.executor": "Run",
+    "Application.DiskReader.executor": "Run",
+    "Application.Exemple.executor": "Run",
+    "Application.Main.executor": "Run",
+    "JAR Application.Frecover-1.0-SNAPSHOT.jar.executor": "Run",
+    "Maven.Frecover [clean,install].executor": "Run",
+    "Maven.Frecover [clean,javafx:run].executor": "Run",
+    "Maven.Frecover [clean].executor": "Run",
+    "Maven.Frecover [compile].executor": "Run",
+    "Maven.Frecover [exec,jar:jar].executor": "Run",
+    "Maven.Frecover [exec,java].executor": "Run",
+    "Maven.Frecover [exec:,sudo,java...].executor": "Run",
+    "Maven.Frecover [exec:java...].executor": "Run",
+    "Maven.Frecover [exec:java].executor": "Run",
+    "Maven.Frecover [exec:sudo,java...].executor": "Run",
+    "Maven.Frecover [jar:jar].executor": "Run",
+    "Maven.Frecover [package].executor": "Run",
+    "Maven.Frecover [site:run].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/ked/backups/Frecover",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs.mocha.mocha_node_package_dir": "",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/UI" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn jar:jar" />
+      <command value="sudo mvn jar:jar" />
+      <command value="mvn compile" />
+      <command value="mvn clean install" />
+      <command value="mvn site:run" />
+      <command value="mvn exec jar:jar" />
+      <command value="mvn exec: sudo java -Dexec.mainClass=&quot;recover.indentification.nativesLibrarys.Exemple&quot;" />
+      <command value="mvn exec:java -Dexec.mainClass=&quot;recover.indentification.nativesLibrarys.Exemple&quot;" />
+      <command value="mvn exec:java recover.indentification.nativesLibrarys.Exemple" />
+      <command value="mvn exec:sudo java -Dexec.mainClass=&quot;recover.indentification.nativesLibrarys.Exemple&quot;" />
+      <command value="mvn exec java" />
+      <command value="mvn exec:java" />
+      <command value="mvn clean" />
+      <command value="mvn package" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Maven.Frecover [clean,javafx:run]">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UI.App" />
+      <module name="Frecover" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="UI.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DiskReader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="recover.DiskReader" />
+      <module name="Frecover" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="recover.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exemple" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="recover.indentification.nativesLibrarys.Exemple" />
+      <module name="Frecover" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="recover.indentification.nativesLibrarys.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="recover.Main" />
+      <module name="Frecover" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="recover.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Frecover-1.0-SNAPSHOT.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/target/Frecover-1.0-SNAPSHOT.jar" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Frecover [clean,javafx:run]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="cmdOptions" />
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="javafx:run" />
+              </list>
+            </option>
+            <option name="multimoduleDir" />
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="projectsCmdOptionValues">
+              <list />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="Frecover [jar:jar]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="cmdOptions" />
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="jar:jar" />
+              </list>
+            </option>
+            <option name="multimoduleDir" />
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="projectsCmdOptionValues">
+              <list />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.Exemple" />
+      <item itemvalue="Application.App" />
+      <item itemvalue="Application.DiskReader" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="JAR Application.Frecover-1.0-SNAPSHOT.jar" />
+      <item itemvalue="Maven.Frecover [jar:jar]" />
+      <item itemvalue="Maven.Frecover [clean,javafx:run]" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.DiskReader" />
+        <item itemvalue="Application.Exemple" />
+        <item itemvalue="Application.App" />
+        <item itemvalue="JAR Application.Frecover-1.0-SNAPSHOT.jar" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.18034.62" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.18034.62" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="50f485be-be48-4a52-b03f-36399fc59512" name="Changes" comment="" />
+      <created>1717093507677</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1717093507677</updated>
+      <workItem from="1717093509021" duration="12470000" />
+      <workItem from="1717447380550" duration="2715000" />
+      <workItem from="1717451366697" duration="4664000" />
+      <workItem from="1717507596094" duration="4746000" />
+      <workItem from="1717521479373" duration="4885000" />
+      <workItem from="1717715657285" duration="2264000" />
+      <workItem from="1717840537718" duration="17668000" />
+      <workItem from="1718270898742" duration="72000" />
+      <workItem from="1718312649574" duration="12789000" />
+      <workItem from="1718668307474" duration="6695000" />
+      <workItem from="1718930906150" duration="2891000" />
+      <workItem from="1720252465780" duration="2578000" />
+      <workItem from="1720266117336" duration="5568000" />
+      <workItem from="1720379871640" duration="639000" />
+      <workItem from="1720623879936" duration="38000" />
+      <workItem from="1723418423345" duration="164000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="version" />
+    <option name="LAST_COMMIT_MESSAGE" value="version" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
